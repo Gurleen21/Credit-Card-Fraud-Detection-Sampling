@@ -68,7 +68,7 @@ Samples taken on every 4th interval
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/79686365/219976331-b464f84a-e59f-442e-8d3c-5d6a56a19d84.png">
 
 ## Discussion
-From the final Accuracy table, we can conclude that Maximum Accuracy is achieved when we apply Random Forest Algorithm  taking samples using the Cluster Sampling technique. We get an accuracy of 99.73%.
+From the final Accuracy table, we can conclude that Maximum Accuracy is achieved when we apply Random Forest Algorithm upon taking samples using the Cluster Sampling technique. We get an accuracy of 99.73%.
 
 ## License
 © 2023 Gurleen Kaur
