@@ -1,5 +1,5 @@
 # Sampling
-Assignment on Sampling for UCS654
+Assignment on Sampling for UCS654(Predictive Analysis using Statistics)
 
 ## Description
 This assignment focuses on a Credit Card Dataset that requires binary classification.
