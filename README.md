@@ -1,4 +1,4 @@
-# Sampling
+# Credit Card Fraud Detection | Sampling
 Assignment on Sampling for UCS654(Predictive Analysis using Statistics)
 
 ## Description
